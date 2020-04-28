@@ -17,7 +17,8 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### ScreenShot 
 
-![capture](https://user-images.githubusercontent.com/33704360/38769260-91bfc362-3fb4-11e8-86c6-d5a3ca13c31a.PNG)
+![images (1)](https://user-images.githubusercontent.com/63150092/80480768-dcadb180-896e-11ea-931a-05565452203e.jpeg)
+
 ### Follow Instagram
 
 https://www.instagram.com/tushardavera/
